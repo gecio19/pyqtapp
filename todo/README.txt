@@ -1,0 +1,2 @@
+Projekt polega³ na uworzeniu wirtualnego œrodowiska Python oraz uzyskania umiejetnoœci budowania interfejsu graficznego za pomoc¹ bibliotek PyQt.
+Jak równie¿ nauka obs³ugi wydarzeñ generowanych przez u¿ytkownika
